@@ -26,10 +26,6 @@
     }
   ],
   "main": "lib/nodegit.js",
-  "files": [
-    "build",
-    "lib"
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/nodegit/nodegit.git"
