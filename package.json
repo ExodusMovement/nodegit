@@ -27,6 +27,7 @@
   ],
   "main": "lib/nodegit.js",
   "files": [
+    "build",
     "lib"
   ],
   "repository": {
